@@ -133,6 +133,7 @@ int main() {
 
 ## OUTPUT
 
+<img width="371" height="163" alt="image" src="https://github.com/user-attachments/assets/eb26b45d-54ed-49ff-a69b-e135cb497ca6" />
 
 
 
