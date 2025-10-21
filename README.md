@@ -66,6 +66,7 @@ void calculateEMI(float principal, float rate, int time)
 
 ## OUTPUT
 
+<img width="437" height="298" alt="image" src="https://github.com/user-attachments/assets/f96a19b5-3a2e-49e4-a36a-ac64715f7ead" />
 
 
 
